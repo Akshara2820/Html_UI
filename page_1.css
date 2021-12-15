@@ -1,0 +1,246 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.circle{
+    background-color: rgba(243, 243, 22, 0.589);
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+    margin-top: 20rem;
+    margin-left: 10rem;
+}
+
+.restaurent_image{
+    margin-left:55rem;
+    border-radius: 0px 0px 0px 250px;
+    width: 49rem;
+    height:50rem;
+
+}
+
+
+.heading_Space_on_rent{
+    margin-top: -4rem;
+    margin-left: 12rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    
+    letter-spacing:0.2rem;
+}
+.color_25000{
+    color: rgb(41, 41, 231);
+}
+.space_on_rent_{
+    margin-top:1rem;
+}
+.Looking_option{
+    margin-top: -4rem;
+    margin-left: 12rem;
+    width: 13rem;
+    height: 2rem;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    outline: none;
+    border: none;
+}
+.Select_city{
+    margin-top: -4rem;
+    margin-left: 2rem;
+    width: 16rem;
+    height: 2rem;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    outline: none;
+    border: none;
+}
+.circle_icon_near_me{
+    background-color: rgb(233, 219, 219);
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50%;
+    margin-top: 4rem;
+    margin-left: 12rem;
+}
+.near_me_icon{
+    margin-top: 1rem;
+    margin-left: 2.2rem;
+    font-size: 2rem;
+}
+.near_me_heading{
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.circle_icon_delhi{
+    background-color: rgb(233, 219, 219);
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50%;
+    margin-top: -6rem;
+    margin-left: 20rem;
+}
+.delhi_icon{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    font-size: 2rem;
+}
+.delhi_heading{
+    margin-left: 1.8rem;
+    margin-top: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.circle_icon_gurgram{
+    background-color: rgb(233, 219, 219);
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50%;
+    margin-top: -6rem;
+    margin-left: 28rem;
+}
+.gurgram_icon{
+    margin-top: 1rem;
+    margin-left: 1.8rem;
+    font-size: 2rem;
+}
+.gurgram_heading{
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.circle_icon_noida{
+    background-color: rgb(233, 219, 219);
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50%;
+    margin-top: -6rem;
+    margin-left: 36rem;
+}
+.noida_icon{
+    margin-top: 1rem;
+    margin-left: 1.8rem;
+    font-size: 2rem;
+}
+.noida_heading{
+    margin-left: 1.5rem;
+    margin-top: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.circle_icon_banglore{
+    background-color: rgb(233, 219, 219);
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50%;
+    margin-top: -6rem;
+    margin-left: 44rem;
+}
+.banglore_icon{
+    margin-top: 1rem;
+    margin-left: 1.8rem;
+    font-size: 2rem;
+}
+.bangalore_heading{
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.circle_icon_hyderabad{
+    background-color: rgb(233, 219, 219);
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50%;
+    margin-top: -6rem;
+    margin-left: 52rem;
+}
+.hyderabad_icon{
+    margin-top: 1rem;
+    margin-left: 1.8rem;
+    font-size: 2rem;
+}
+.hyderabad_heading{
+    margin-left: 0.5rem;
+    margin-top: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.9rem;
+}
+.circle_icon_mumbai{
+    background-color: rgb(233, 219, 219);
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50%;
+    margin-top: 2rem;
+    margin-left: 12rem;
+}
+.mumbai_icon{
+    margin-top: 1rem;
+    margin-left: 1.8rem;
+    font-size: 2rem;
+}
+.circle_icon_pune{
+    background-color: rgb(233, 219, 219);
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50%;
+    margin-top: -6rem;
+    margin-left: 20rem;
+}
+.pune_icon{
+    margin-top: 1rem;
+    margin-left: 1.8rem;
+    font-size: 2.2rem;
+}
+.circle_icon_indore{
+    background-color: rgb(233, 219, 219);
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50%;
+    margin-top: -6rem;
+    margin-left: 28rem;
+}
+.indore_icon{
+    margin-top: 1rem;
+    margin-left: 1.8rem;
+    font-size: 2.2rem;
+}
+.circle_icon_chennai{
+    background-color: rgb(233, 219, 219);
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50%;
+    margin-top: -6rem;
+    margin-left: 36rem;
+}
+.chennai_icon{
+
+    margin-top: 1rem;
+    margin-left: 1.8rem;
+    font-size: 2.2rem;
+}
+.circle_icon_ahmedabad{
+    background-color: rgb(233, 219, 219);
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50%;
+    margin-top: -6rem;
+    margin-left: 44rem;
+}
+.ahmedabad_icon{
+    margin-top: 1rem;
+    margin-left: 1.8rem;
+    font-size: 2.2rem;
+}
+.circle_icon_kochi{
+    background-color: rgb(233, 219, 219);
+    height: 6rem;
+    width: 6rem;
+    border-radius: 50%;
+    margin-top: -6rem;
+    margin-left: 52rem;
+}
+.kochi_icon{
+    margin-top: 1rem;
+    margin-left: 1.8rem;
+    font-size: 2.2rem;
+}

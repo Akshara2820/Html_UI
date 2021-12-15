@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+}
+
+.border_first_image{
+border-style:solid;
+border-color: white;
+background: rgb(255, 255, 255);
+width: 75rem;
+height: 10rem;
+margin-left: 20rem;
+margin-top: 5rem;
+border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+}
+.covid_heading{
+    color: brown;
+    margin-left: 2rem;
+    font-size: large;
+    font-family: 'Montserrat',sans-serif;
+}
+.subtittle_covid_heading{
+    margin-left: 2rem;
+    font-size: larger;
+    font-family: 'Montserrat',sans-serif;
+}
+.mask_icon{
+    margin-left: 4rem;
+    font-size: 1.8rem;
+    color:black;
+}
+.sanatizer_spary{
+    margin-left: 12rem;
+    font-size: 1.8rem;
+    color: black;
+}
+.hand_sanatizer {
+    margin-left: 13rem;
+    font-size: 1.8rem;
+    color: black;
+}
+.socal_distance{
+    margin-left: 14rem;
+    font-size: 1.8rem;
+    color: black;
+}
+.mask_heading{
+    margin-top: -4rem;
+    margin-left: 17rem;
+    font-family: sans-serif;
+}
+.mask_sub_tittle{
+    margin-top: -1rem;
+    margin-left: 17rem;
+    font-family: 'Montserrat',sans-serif;
+}
+.sanatizer_heading{
+    margin-top: -6rem;
+    margin-left: 31rem;
+    font-family: sans-serif;
+}
+.sanitizer_sub_tittle{
+    margin-top: -1rem;
+    margin-left: 31rem;
+    font-family: 'Montserrat',sans-serif;
+}
+.hand_sanatizer_heading{
+    margin-top: -6rem;
+    margin-left: 46rem;
+    font-family: sans-serif;
+}
+.hand_sanitizer_sub_tittle{
+    margin-top: -1rem;
+    margin-left: 46rem;
+    font-family: 'Montserrat',sans-serif;
+}
+.social_distance_heading{
+    margin-top: -6rem;
+    margin-left: 62rem;
+    font-family: sans-serif;
+}
+.social_distance_sub_tittle{
+    margin-top: -1rem;
+    margin-left: 62rem;
+    font-family: 'Montserrat',sans-serif;
+}
+.live_space{
+    margin-top: 12rem;
+    color: white;
+    font-family: sans-serif;
+}
+.location_number{
+    margin-top: 4rem;
+    color: white;
+    font-family: sans-serif;
+}
+.city_number{
+    margin-top: 4rem;
+    color: white;
+    font-family: sans-serif;
+}
+.live_status{
+    color: white;
+    font-family: 'Montserrat',sans-serif;
+    margin-top: -1rem;
+}
+.location_status{
+    color: white;
+    font-family: 'Montserrat',sans-serif;
+    margin-top: -1rem;
+
+}
+.city_status{
+    color: white;
+    font-family: 'Montserrat',sans-serif;
+    margin-top: -1rem;
+}
+.border_second_image{
+border-style:solid;
+border-color: white;
+background: rgb(255, 255, 255);
+width: 65rem;
+height: 31rem;
+margin-left: 29.8rem;
+margin-top: -20rem;
+border-radius: 100px 0px 0px 0px;
+}
+.border_tittle{
+    font-family:sans-serif;
+    margin-top: 5rem;
+    margin-left: 10rem;
+    word-spacing: 0.5rem;
+    letter-spacing: 0.1rem;
+}
+._horizintal_line{
+    width:10rem;
+    margin-top: 6rem;
+    margin-left: 10rem;
+}
+.last_subtittle{
+    color: blue;
+    font-family: sans-serif;
+    margin-left: 10rem;
+    margin-top: 5rem;
+}
+.Phone_icon{
+    color: blue;
+    font-size: 2rem;
+    margin-left:30rem;
+    margin-top: -15rem;
+    
+}
+.human {
+    color: blue;
+    font-size: 2rem;
+    margin-left:50rem;
+    margin-top: 3rem;
+}
